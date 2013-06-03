@@ -35,11 +35,15 @@ View
 		view/new/new.blade.php
 		
 		Ovdje se nalazi javascript koji provjerava dali je korisnik Lajkao stranicu, 
-		ako nije skriven mu je Submit button te ga onemoguæava da se forma posta i još se umjesto submit-a ispiše upozorenje crvenim slovima kako stranicu nije lajkana.
+		ako nije skriven mu je Submit button te ga onemoguæava da se forma posta i još se umjesto submit-a ispiše
+		upozorenje crvenim slovima kako stranicu nije lajkana.
 		
-		Naravno ako je sve uspiješno obavljeno korisnika se preusmjerava na stranicu koja ispisva podatke koje se nalaze u bazi.
+		Naravno ako je sve uspiješno obavljeno korisnika se preusmjerava na stranicu koja ispisva podatke koje se
+		nalaze u bazi.
 
-3.I još ispod svega se nalazi link "Click to see data of all users" kako bi mogli pregledat sve podatke koji su veæ upisani u bazu
+3.I još ispod svega se nalazi link "Click to see data of all users" kako bi mogli pregledat sve podatke koji su veæ
+ upisani u bazu
+ 
 Controllers
 		controllers/viewdatas.php
 View 
