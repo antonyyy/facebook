@@ -22,16 +22,16 @@ Opis:
 1.Imamo Controllers koji generira poèetnu stranicu i u kojoj se nalazi Like button,
 te koja nam ispisiva Login, te nakon što se logiramo ispisiva podatke korisnika ime,prezime spol i sliku.
 
-##Controllers
+Controllers
 		##controllers/home.php
-##View 
+View 
 		##view/facebook/view.blade.php
 		
 2.Te ispod toga nalazi se link "Add image and personal text"  koji sadrži formu unosa svih navedenih  podataka u bazu.
 
-##Controllers
+Controllers
 		##controllers/new.php
-##View 
+View 
 		##view/new/new.blade.php
 		
 		Ovdje se nalazi javascript koji provjerava dali je korisnik Lajkao stranicu, 
@@ -44,7 +44,7 @@ te koja nam ispisiva Login, te nakon što se logiramo ispisiva podatke korisnika 
 3.I još ispod svega se nalazi link "Click to see data of all users" kako bi mogli pregledat sve podatke koji su veæ
  upisani u bazu
  
-##Controllers
+Controllers
 		##controllers/viewdatas.php
-##View 
+View 
 		##view/viewdatas/index.blade.php
